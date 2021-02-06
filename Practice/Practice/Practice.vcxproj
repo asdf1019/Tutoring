@@ -139,13 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\멘토링\EX01.cpp" />
-    <ClCompile Include="..\..\..\멘토링\EX02.cpp" />
-    <ClCompile Include="..\..\..\멘토링\EX03.cpp" />
-    <ClCompile Include="..\..\..\멘토링\EX04.cpp" />
-    <ClCompile Include="..\..\..\멘토링\EX05.cpp" />
-    <ClCompile Include="..\..\..\멘토링\EX06.cpp" />
-    <ClCompile Include="..\..\..\멘토링\EX07.cpp" />
     <ClCompile Include="1.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
