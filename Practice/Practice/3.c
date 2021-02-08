@@ -1,3 +1,4 @@
+/*
 #pragma warning(disable : 4996)
 #include <stdio.h>
 
@@ -17,3 +18,4 @@ int main() {
 		printf("%d * %d = %d\n", num, i, num * i);
 	}
 }
+*/

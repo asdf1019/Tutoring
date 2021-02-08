@@ -1,3 +1,4 @@
+/*
 #pragma warning(disable : 4996)
 #include <stdio.h>
 
@@ -18,3 +19,4 @@ int main() {
 	}
 	printf("1부터 N까지의 합 : %d", sum);
 }
+*/
