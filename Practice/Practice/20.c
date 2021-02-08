@@ -1,4 +1,6 @@
+/*
 #include <stdio.h>
+
 int main()
 {
 	int* numPtr;
@@ -12,3 +14,5 @@ int main()
 
 	return 0;
 }
+*/
+
