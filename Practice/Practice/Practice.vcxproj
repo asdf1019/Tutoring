@@ -154,7 +154,9 @@
     <ClCompile Include="23.c" />
     <ClCompile Include="24.c" />
     <ClCompile Include="25.c" />
-    <ClCompile Include="26.c" />
+    <ClCompile Include="26.c">
+      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
+    </ClCompile>
     <ClCompile Include="3.c" />
     <ClCompile Include="31.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
