@@ -157,6 +157,10 @@
     <ClCompile Include="26.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
+    <ClCompile Include="27.c">
+      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
+    </ClCompile>
+    <ClCompile Include="28.c" />
     <ClCompile Include="3.c" />
     <ClCompile Include="31.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
@@ -180,6 +184,14 @@
     <ClCompile Include="5.c" />
     <ClCompile Include="6.c" />
     <ClCompile Include="7.c" />
+    <ClCompile Include="file.c">
+      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
+    </ClCompile>
+    <ClCompile Include="func.c" />
+    <ClCompile Include="main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
