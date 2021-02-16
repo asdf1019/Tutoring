@@ -123,6 +123,21 @@
     <ClCompile Include="file.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="41.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="42.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="43.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="44.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="45.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
